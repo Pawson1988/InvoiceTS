@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tax, .price, .company-name, .item {
+    border: solid black 3px;
+    background-color: rgb(64, 88, 245);
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    background-color: rgb(238, 202, 131);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50vw;
+    height: 90vh;
+    border-radius: 0.5rem;
+}
+
